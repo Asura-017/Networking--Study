@@ -1,4 +1,4 @@
-# Networking--Study--Guide
+# Networking Study Guide
 
 ## Table of Contents
 
